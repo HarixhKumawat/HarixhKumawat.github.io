@@ -4,11 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Harixh
+# Welcome; Harixh this side - Software Engineer, Researcher.
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+You can Checkout my [Github](https://github.com/HarixhKumawat) and heres [my twitter](https://x.com/fedef26)
