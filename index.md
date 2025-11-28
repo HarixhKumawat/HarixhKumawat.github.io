@@ -9,6 +9,6 @@ permalink: /
 [Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
 [Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
 
-# Welcome
+# नमस्कारः
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+This is the New Webfront for all of my crzy blogs and projects! 
