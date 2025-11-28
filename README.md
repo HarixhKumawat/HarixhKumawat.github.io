@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# jekyll-theme-harixh-home
+This is the brand new site for complete explorations and whatever we see ahead in life. may this website marks a new beginning in careers and LYF
